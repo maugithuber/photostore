@@ -1,0 +1,15 @@
+#watermark{
+    background:url("img/watermark.png") no-repeat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#image{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
